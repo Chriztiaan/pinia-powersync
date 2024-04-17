@@ -1,8 +1,4 @@
-# PowerSync + Supabase Vue Demo: Todo List (TypeScript)
-
-## Note: Alpha Release
-
-This package is currently in an alpha release.
+# PowerSync + Supabase + Pinia + Vue Demo: Todo List (TypeScript)
 
 ## Overview
 
@@ -47,18 +43,9 @@ pnpm dev
 
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
 
-## Progressive Web App (PWA)
-
-This demo is PWA compatible, and works fully offline. PWA is not available in development (watch) mode. The manifest and service worker is built using [vite-plugin-pwa](https://vite-pwa-org.netlify.app/).
-
 Build the production codebase:
 
 ```bash
 pnpm build
 ```
 
-## Learn More
-
-Check out [PowerSync Vue on GitHub](https://github.com/powersync-ja/powersync-js/tree/main/packages/vue) - your feedback and contributions are welcome!
-
-To learn more about PowerSync, see the [PowerSync docs](https://docs.powersync.com).
